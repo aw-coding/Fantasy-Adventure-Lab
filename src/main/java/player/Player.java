@@ -7,11 +7,11 @@ import java.util.ArrayList;
 
 public class Player {
 
-    private String name;
-    private int health;
-    private ArrayList<Item> items;
-    private Item currentItem;
-    private ArrayList<Treasure> treasureHoard;
+    protected String name;
+    protected int health;
+    protected ArrayList<Item> items;
+    protected Item currentItem;
+    protected ArrayList<Treasure> treasureHoard;
 
 
     public Player(String name, int health, ArrayList<Item> items, Item currentItem, ArrayList<Treasure> treasureHoard){

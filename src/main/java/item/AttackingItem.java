@@ -19,6 +19,11 @@ public class AttackingItem extends Item {
 //        enemy.getType().getHealth() -= this.type.getDamage();
 //    }
 
+
+    public attackingItemType getType() {
+        return type;
+    }
+
     @Override
     public void use(Enemy enemy) {
          enemy.getType().getHealth() -= this.type.getDamage();

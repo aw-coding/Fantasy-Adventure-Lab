@@ -6,36 +6,6 @@
   <component name="ChangeListManager">
     <list default="true" id="3d5ea286-5e59-4350-a94f-b1172cfa2463" name="Default Changelist" comment="">
       <change afterPath="$PROJECT_DIR$/../CodeClanCars" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/.gitignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/compiler.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/jarRepositories.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/uiDesigner.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/FantasyLab.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/item/AttackingItem.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/item/HealingItem.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/item/Item.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/item/MythicalCreature.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/item/attackingItemType.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/item/healingItemType.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/item/mythicalCreatureType.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/player/Dwarf.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/player/Player.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/room/Enemy.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/room/Room.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/room/Treasure.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/room/enemyType.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/room/treasureType.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/AttackingItemTest.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/EnemyTest.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/HealingItemTest.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/MythicalCreatureTest.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/PlayerTest.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/RoomTest.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/TreasureTest.java" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/../composition/code/composition_start_point/.gitignore" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/../composition/code/composition_start_point/pom.xml" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/../composition/code/composition_start_point/src/main/java/behaviours/IOutput.java" afterDir="false" />
@@ -56,6 +26,11 @@
       <change afterPath="$PROJECT_DIR$/../composition/code/composition_start_point/src/test/java/SpeakerTest.java" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/../composition/code/composition_start_point/src/test/java/TelevisionTest.java" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/../composition/code/composition_start_point/src/test/java/TypeWriterTest.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/vcs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/item/AttackingItem.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/item/AttackingItem.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/player/Dwarf.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/player/Dwarf.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/player/Player.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/player/Player.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -71,7 +46,7 @@
     </option>
   </component>
   <component name="Git.Settings">
-    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
   <component name="MavenImportPreferences">
     <option name="importingSettings">
@@ -114,7 +89,7 @@
       <breakpoints>
         <line-breakpoint enabled="true" type="java-line">
           <url>file://$PROJECT_DIR$/src/main/java/item/AttackingItem.java</url>
-          <line>21</line>
+          <line>24</line>
           <option name="timeStamp" value="1" />
         </line-breakpoint>
       </breakpoints>
